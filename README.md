@@ -1,2 +1,2 @@
 # Conspects
-This is my conspects repository
+You also can commit your lectures into this repository
