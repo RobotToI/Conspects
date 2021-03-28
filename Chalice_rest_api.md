@@ -39,3 +39,19 @@ Using Step Functions we can create complex workflows with logic, our handling, r
 * Chalice handles API gateway configuration
 * Focus on writing functions
 
+###API Gateway
+Lambda Authorizers это гибкий механизм позволяющий управлять
+который передаёт контроль доступом для lambda функции которую мы обеспечиваем этим контролем. Chalice makes it really easy to specify and 
+use custom authorizers, and we'll dig into an example
+
+####Cognito
+* Это AWS authentication and authorization service
+* User management, including signup, sign-in
+* Temporary IAM credentials for AWS acceess
+
+####Usage Plans and API keys
+* Throttling, quotas, and usage tracking based on an API key
+* Usage plans to manage limits and access
+
+
+
