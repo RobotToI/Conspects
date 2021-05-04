@@ -32,8 +32,13 @@ https://www.slideshare.net/FarehaNadeem/iso-29119-the-new-international-software
 
 [Software testing bsics Qiuz](https://www.softwaretestinghelp.com/software-testing-online-quiz/)
 
-[519 page of this book is Software quality](https://sabbirsaleh.weebly.com/uploads/4/5/1/0/4510327/software_testing_and_quality_assurance_theory_and_practice_by_naik___tripathy.pdf)
+[551 page of this book is Software quality](https://sabbirsaleh.weebly.com/uploads/4/5/1/0/4510327/software_testing_and_quality_assurance_theory_and_practice_by_naik___tripathy.pdf)
 
+[Графические задания в леции](https://www.testingementor.com/software-testing-online-resources/software-testing-exercises/)
+
+[Тоже самое](https://softwaretestingfundamentals.com/software-testing-exercises/)
+
+[Software quizzes for examination](https://softwaretestingfundamentals.com/software-testing-exercises/)
 
 Задания на ~ 10 -15 min 
 Practical tasks 
