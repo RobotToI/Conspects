@@ -22,10 +22,17 @@ https://www.slideshare.net/FarehaNadeem/iso-29119-the-new-international-software
 
 [Лекции ](https://home.cs.colorado.edu/~kena/classes/5828/s12/lectures/05-introtesting.pdf)
 
+[Lectures in English](https://www.softwaretestingclass.com/wp-content/uploads/2016/06/Beginner-Guide-To-Software-Testing.pdf)
+[Lectures about Types of testing with history](https://www.cs.cmu.edu/~luluo/Courses/17939Report.pdf)
+
 [курс леций на русском по Тестированию программного обеспечения](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/vvedenie-v-testirovanie-zhiznennii-tsikl-produkta-metodologii-razrabotki-programmnogo-obespecheniya.html)
 
 [Курс лекций по тестированию](https://coursehunter.net/course/qa-start)
 **Если вам нужен будет пароль логин напишите мне**
+
+[Software testing bsics Qiuz](https://www.softwaretestinghelp.com/software-testing-online-quiz/)
+
+[519 page of this book is Software quality](https://sabbirsaleh.weebly.com/uploads/4/5/1/0/4510327/software_testing_and_quality_assurance_theory_and_practice_by_naik___tripathy.pdf)
 
 
 Задания на ~ 10 -15 min 
