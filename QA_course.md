@@ -40,5 +40,8 @@ https://www.slideshare.net/FarehaNadeem/iso-29119-the-new-international-software
 
 [Software quizzes for examination](https://softwaretestingfundamentals.com/software-testing-exercises/)
 
+[Software testing from MIT](https://ocw.mit.edu/ans7870/6/6.005/s16/classes/03-testing/index.html)
+
+
 Задания на ~ 10 -15 min 
 Practical tasks 
