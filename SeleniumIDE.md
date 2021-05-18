@@ -4,4 +4,4 @@
 **Test harness** - a test environment comprised of stubs and drivers needed to execute test.
 
 A lot of people think that test automation can replace people entirely, but that is not true yet. Look at the picture bellow
-[testautomation1](images/testautomation1.png)
+![testautomation1](images/testautomation1.png)
