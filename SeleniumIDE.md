@@ -46,6 +46,33 @@ This is the difference between Manual and automated testing
 
 
 # Some tips on test automation
-#### More details to cases that should be automated
-#### Miscellaneous tools/systems that no one can understand
-#### 
+- More *details* to cases that should be automated
+- Miscellaneous tools/systems that no one can understand
+- You should mention about *Timing synchronization*
+- You shouldn't hardcode variables to the test automation
+- Test independence - the main point
+- **And remember The automation is PROGRAMMING**
+- Understanding a tool which you work with!
+- ***ACTIONS and CHECKS are NOT THE SAME!***
+#### Action - is a step for ex.:
+- Enter the X value into Y field.
+- Click the A link on the B page.
+- Fill all fields of the form K on the page M with valid values.
+- And etc...
+#### Check are observations - it doesn't change anything in our application ex.:
+- Check that the Y field contains the X value.
+- Check that the B page contain the A link.
+- Check that the page M contains the form K.
+- Check some other things...
+
+## Use proper data sources
+### When we automate test we should use *a lot of data...*
+- Random values
+- Values generation with some algorithm
+- Trusted external data sources(web-services, DB, etc)
+- Real existing user data
+- Manual generation
+
+# Record and Playback Technology
+
+
