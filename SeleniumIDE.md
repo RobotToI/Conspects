@@ -74,5 +74,24 @@ This is the difference between Manual and automated testing
 - Manual generation
 
 # Record and Playback Technology
+### Pros&Cons
+#### Pros
+- Easy to learn
+- Quick test skeleton creation
+- Auto-gethering of technical details
+- Routine actions auto-recording
 
+#### Cons
+- No, "if's", "cycles", "subroutines"
+- **EVERY** action is recorded
+- Hardcoding
+- Meaningless variable names
 
+# SeleniumIDE itself
+Is an integrated development enviroment for Selenium scripts. It is implemented as a Chrome and Firefox extension, and allows you to record, edit, and debug tests. [seleniumIDE site](https://www.seleniumhq.org)
+
+Task:
+- Open [Link](https://selenium.dev)
+- Click the "Projects" link
+- Click the "Learn more" link in "Selenium IDE" section
+- Check that the page contains the followit text: "Selenium IDE has plugin support"
